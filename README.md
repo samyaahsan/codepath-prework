@@ -36,8 +36,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-![Game Won]Game Won:(https://i.imgur.com/FyxAvMl.gif)
-![Game Lost]Game Lost:(https://i.imgur.com/osZ9wjW.gif)
+![Game Won](https://i.imgur.com/FyxAvMl.gif)
+![Game Lost](https://i.imgur.com/osZ9wjW.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
